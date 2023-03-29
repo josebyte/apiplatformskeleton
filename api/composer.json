@@ -38,7 +38,8 @@
         "symfony/phpunit-bridge": "6.2.*",
         "symfony/stopwatch": "6.2.*",
         "symfony/var-dumper": "6.2.*",
-        "symfony/web-profiler-bundle": "6.2.*"
+        "symfony/web-profiler-bundle": "6.2.*",
+        "zenstruck/foundry": "^1.31"
     },
     "config": {
         "optimize-autoloader": true,
