@@ -12,6 +12,7 @@
         "lexik/jwt-authentication-bundle": "^2.18",
         "nelmio/cors-bundle": "^2.2",
         "phpdocumentor/reflection-docblock": "^5.3",
+        "scheb/2fa-totp": "^6.7",
         "symfony/asset": "6.2.*",
         "symfony/console": "6.2.*",
         "symfony/dotenv": "6.2.*",

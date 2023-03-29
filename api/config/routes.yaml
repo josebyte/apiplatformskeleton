@@ -1,3 +1,8 @@
+# https://symfony.com/doc/current/security/authenticator_manager.html
+auth:
+    path: /auth
+    methods: ['POST']
+    
 controllers:
     resource:
         path: ../src/Controller/
